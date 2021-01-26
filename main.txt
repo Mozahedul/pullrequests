@@ -1,6 +1,0 @@
-this is the text for testing the entire family.
-<<<<<<< HEAD
-Bangladesh is a poor country but still developing.
-=======
-We are very frustrated to deliver your service.
->>>>>>> newBranch
