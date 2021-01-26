@@ -1,2 +1,4 @@
 this is for the test of resolving conflicts.
+
 This is the conflict resolving test.
+
