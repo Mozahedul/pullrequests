@@ -1,3 +1,4 @@
 hello USA, How are you today?
 
 This is from whats-new branch to test the conflicts between main and whats-new branch.
+Price is hiking today.
