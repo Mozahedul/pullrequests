@@ -1,2 +1,2 @@
-console.log("Hello World");
-console.log("Mozahedul Islam");
+console.log(Hello World)
+console.log("hello Bangladesh");
