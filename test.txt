@@ -3,3 +3,6 @@ This is for the testing purpose.
 I we do some changes in our code, and we wanna be sure that our code works properly. For this 
 we can send our code to collaborator or developer so that they can send review after the testifying the code with bug
 free, error free and exception free.
+
+====================================================
+conflict resolving test from bestBranch
