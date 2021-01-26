@@ -3,4 +3,8 @@ This is for the testing purpose.
 I we do some changes in our code, and we wanna be sure that our code works properly. For this 
 we can send our code to collaborator or developer so that they can send review after the testifying the code with bug
 free, error free and exception free.
+<<<<<<< HEAD
 add text for testing conflicts of merging
+=======
+add some text for testing conflicts.
+>>>>>>> 123c1910c729a18e23d05f4cc3cafc53ee8238f0
