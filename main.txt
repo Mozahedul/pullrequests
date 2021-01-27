@@ -1,3 +1,4 @@
 This text file is for the purpose of testing conflict.
 Your main testing from subBranch.
 From scriptBranch.
+text should be run automatically.
